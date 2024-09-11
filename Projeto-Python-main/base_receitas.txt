@@ -1,0 +1,6 @@
+Aluguel de imóvel;800.00;05/11/2023;
+Serviço de consultoria;3000.00;10/11/2023;
+Rendimento de poupança;50.25;15/11/2023;
+Fapesq;1000.0;28/09/2023;
+Fapesq;1000.0;29/10/2023;
+Fapesq;1000.0;29/11/2023;
